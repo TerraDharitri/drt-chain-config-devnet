@@ -1,0 +1,50 @@
+[StakingSystemSCConfig]
+    GenesisNodePrice = "2500000000000000000000" #2.5K rEWA
+    MinStakeValue = "100000000000000000000" #100 rEWA
+    MinUnstakeTokensValue = "10000000000000000000" #10rEWA
+    UnBondPeriod = 2400
+    UnBondPeriodInEpochs = 1
+    MinStepValue = "100000000000000000000"
+    NumRoundsWithoutBleed = 100
+    MaximumPercentageToBleed = 0.5
+    BleedPercentagePerRound = 0.00001
+    MaxNumberOfNodesForStake = 320
+    UnJailValue = "2500000000000000000" #0.1% of genesis node price
+    ActivateBLSPubKeyMessageVerification = true
+    StakeLimitPercentage = 1.0 #fraction of value 1 - 100%, for the time being no stake limit
+    NodeLimitPercentage = 0.05 #fraction of value 0.1 - 10% (180*0.05=9)
+
+[DCDTSystemSCConfig]
+    BaseIssuingCost = "50000000000000000" #0.05 rEWA
+    OwnerAddress = "drt17x5h63fgentz5302m9rd7ryttssttk68xtpr9qdztssw88vfs07s8geywx"
+
+[GovernanceSystemSCConfig]
+    OwnerAddress = "drt1uwd7czafqa2eka354h8y9slx4t8da7sf3d0nce6yj3rnf72j63ns6srl6h" #should use a multisign contract instead of a wallet address
+    [GovernanceSystemSCConfig.V1]
+        NumNodes           = 500
+        ProposalCost       = "5000000000000000000" #5 rEWA
+        MinQuorum          = 400
+        MinPassThreshold   = 300
+        MinVetoThreshold   = 50
+    [GovernanceSystemSCConfig.Active]
+        ProposalCost       = "1000000000000000000000" #1000 rEWA
+        LostProposalFee    = "10000000000000000000"   #10 rEWA
+        MinQuorum          = 0.2  #fraction of value 0.2  - 20%
+        MinPassThreshold   = 0.5  #fraction of value 0.5  - 50%
+        MinVetoThreshold   = 0.33 #fraction of value 0.33 - 33%
+
+[DelegationManagerSystemSCConfig]
+    MinCreationDeposit = "1250000000000000000000" #1.25K rEWA
+    MinStakeAmount = "1000000000000000000" #1 rEWA
+    ConfigChangeAddress = "drt1tsgw76rcawsdp703qh25vezkpmley8xu6k6wx3jngru470rqu2rqfrhc3n" #should use a multisign contract instead of a wallet address
+
+[DelegationSystemSCConfig]
+    MinServiceFee  = 0
+    MaxServiceFee  = 10000
+
+# Changing this config is not backwards compatible
+[SoftAuctionConfig]
+    TopUpStep = "10000000000000000000" # 10 REWA
+    MinTopUp = "1000000000000000000" # 1 REWA should be minimum
+    MaxTopUp = "32000000000000000000000000" # 32 mil REWA
+    MaxNumberOfIterations = 100000 # 100k max number of iterations for soft auction config
