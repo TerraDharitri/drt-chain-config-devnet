@@ -819,7 +819,9 @@
     PollingIntervalInMinutes = 65
 
 [GatewayMetricsConfig]
-    URL =  "https://devnet-gateway.dharitri.org"
+    # URL =  "https://devnet-gateway.dharitri.org"
+    URL =  "http://localhost:9090"
+
 
 [LogsAndEvents]
     SaveInStorageEnabled = false
