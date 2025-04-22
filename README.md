@@ -23,6 +23,6 @@ For more info how to connect to the devnet, please check [here](https://docs.dha
 ### run node with docker
 ```
 CONFIG_FOLDER=/home/dharitri/workspace/Devnet/drt-chain-config-devnet
-sudo docker run --mount type=bind,source=${CONFIG_FOLDER}/,destination=/data chain-devnet-local --validator-key-pem-file="/data/validatorKey.pem" --log-level *:DEBUG
+sudo docker run -p 8200:8200 --mount type=bind,source=${CONFIG_FOLDER}/,destination=/data chain-devnet-local --validator-key-pem-file="/data/validatorKey.pem" --log-level *:DEBUG
 
 ```

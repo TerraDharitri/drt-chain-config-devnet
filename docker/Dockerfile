@@ -50,5 +50,5 @@ COPY --from=builder "/go/drt-go-chain/cmd/node/." "/go/drt-go-chain/cmd/node/"
 COPY --from=builder "/lib_${TARGETARCH}/*" "/lib/"
 
 WORKDIR /go/drt-go-chain/cmd/node/
-EXPOSE 8081
-ENTRYPOINT ["/go/drt-go-chain/cmd/node/node", "--rest-api-interface=:8080"]
+EXPOSE 8200
+ENTRYPOINT ["/go/drt-go-chain/cmd/node/node", "--rest-api-interface=:8200"]

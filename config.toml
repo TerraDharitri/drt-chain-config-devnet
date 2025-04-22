@@ -820,7 +820,7 @@
 
 [GatewayMetricsConfig]
     # URL =  "https://devnet-gateway.dharitri.org"
-    URL =  "http://localhost:9090"
+    URL =  "http://localhost:7950"
 
 
 [LogsAndEvents]
