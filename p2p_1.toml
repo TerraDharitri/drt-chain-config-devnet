@@ -8,7 +8,7 @@
 
     # ThresholdMinConnectedPeers represents the minimum number of connections a node should have before it can start
     # the sync and consensus mechanisms
-    ThresholdMinConnectedPeers = 0
+    ThresholdMinConnectedPeers = 3
 
     # MinNumPeersToWaitForOnBootstrap is the minimum number of peers to wait on bootstrap or the node will wait the default
     # time which is now set to ~20 seconds (the const defined in the common package named TimeToWaitForP2PBootstrap)
@@ -94,11 +94,11 @@
 
 [Sharding]
     # The targeted number of peer connections
-    TargetPeerCount = 20
-    MaxIntraShardValidators = 2
-    MaxCrossShardValidators = 2
-    MaxIntraShardObservers = 2
-    MaxCrossShardObservers = 2
+    TargetPeerCount = 75
+    MaxIntraShardValidators = 20
+    MaxCrossShardValidators = 15
+    MaxIntraShardObservers = 20
+    MaxCrossShardObservers = 15
     MaxSeeders = 2
 
     # available options:
