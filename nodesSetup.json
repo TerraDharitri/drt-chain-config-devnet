@@ -39,7 +39,7 @@
         "initialRating": 5000001
       },
       {
-        "pubkey": "90e4f83982cf22ce2125264ee27c993fc14021e84ea4131dc5004df789513ef0edc064c3f697b1ec49a889cf82ea5016b3e6c6f48a0c14c36babcccf33721c05b8f49143aa0a8fc0e9878738c3e332a5849c73277d6c366a6ac3d1621a5a1610",
+        "pubkey": "da0c8356f1965fe5791895c448cdcd65bb5f267cea907c39bf2a42526c87df80c2932156e7c760cd699c0036ef5a3c010a76a966499edd3d171116af1b8cc053d4e778bd6047a4bf73164f690dcf7a53254d6bbbb8c676bb0e4aecd9504b4686",
         "address": "drt1q9xj4uqrfy9ge6n7lefn24qfa78pqd9q5dlc2fj8yv79smtdf9qq95gmjt",
         "initialRating": 5000001
       },
@@ -49,32 +49,32 @@
         "initialRating": 5000001
       },
       {
-        "pubkey": "09725a1df2eda41a308a917be03743b0ae8ebb0a60b568bacffefeff261b28c97a2474bbf9fd984e3898fe27342eb714c60910a0c29fb83557fdfeafa80446824267c2aaffb53d987bbe050d9645fb9acfb29ba64678116271bebf13e04bcb88",
+        "pubkey": "40d6b00180d1dbcf2221f79ce48481a95d5daf11bef8ed3222ba52ff9625ae0d374207571c2e90fbd79d3ffca32100060086f39c5fb27cbab36e417496a321bd46e4c80a843bf3dc24fd3f1358639dee8527d7361b66f2b9da01adcd23932b90",
         "address": "drt13duqp5czapas2sfgx2guewkcn8gwfpcrnnxe36qmacm8lz29ardseghz2v",
         "initialRating": 5000001
       },
       {
-        "pubkey": "81f7ff8f97b7fb238ada0afffd3dbe591fa4a6e7656a9fe775aaeed425d8904d9529b846c4af5f4a2d10ce833f2bf215abebc09ed36a17045daf3082efb23c880b26dccd0f122f849bedc881bd4786ec70a21ef188c19501d508ddf6ed177889",
+        "pubkey": "abc846183f6d3bd79def0e99418a3c0b47d21f846a30f1c60de5ae90c428b137f83e649788ea348e72939f08276ab10d9c7d8fec8bc84f2ab6c88d39a2c24652f355c557eabd8de3549292c7d2bd68ec26cfa8057e89482d6197c8991c7d270f",
         "address": "drt1yj98hu0ccea0praq0u2kwgefk28aelgjcjsamt9eqkugsarqz7rsn48y9v",
         "initialRating": 5000001
       },
       {
-        "pubkey": "ce69ac895e7ad86d36a40dec56f39041f29204328ea6e3efcee483812bce2c65fa971d7410bd4d1ea3d97a3ae10fad0f2f4d07a123c4bb75365da4429f5879c9399b6edb54dede724483e5b82a83bd6a41f552479f5c38baee7508e81fc9c402",
+        "pubkey": "41afd82dc8872845dff3e2fec927906ed3d4cc7778d2b87f1555ccfe46afedf89e03bda89d5ea1a96bc96102caedbb0405ebb0a8f1f1179940da4c928c1fa3e1dce700872cf0a5b397efa1d26391e60d1fab39d0d033ba0306af654d9d8b6103",
         "address": "drt194sdjy8anx3v38vmr7g7r034y4e0276wndf8u70dxe2zmnfjyddq8954rr",
         "initialRating": 5000001
       },
       {
-        "pubkey": "40d6b00180d1dbcf2221f79ce48481a95d5daf11bef8ed3222ba52ff9625ae0d374207571c2e90fbd79d3ffca32100060086f39c5fb27cbab36e417496a321bd46e4c80a843bf3dc24fd3f1358639dee8527d7361b66f2b9da01adcd23932b90",
+        "pubkey": "f524dee16abbbd01506cdc2a8dafb1262fbbe865814a98c220517382e55d431bc55f13ac5aa722e78793b3fc6c7d28173bfcf7ea5ae2c8e575dc59bf3e04f11cc37102722f9c52ca43216e0a3d08383e57fad7ca7e7571f77e5ecc6b66908d0c",
         "address": "drt15yhduccpcs8akr8ld8uewx3kvz3ggq2th6sm5nl0y0az6p7w9flsszp07g",
         "initialRating": 5000001
       },
       {
-        "pubkey": "89ee9c167af090e222d571ccecd72d5254a1d8e74200dda5a9ab2d1a32496e46b7dcd9321e86582a753090fffe0c1206dcb975b064de93f0ebe2e8b77d46f6b93430c04d5b80dfdfb85f4a9e84eea77da1864bee1530ad631f6dd1744736dc0b",
+        "pubkey": "51578f2b926d3fb6887171f8d343fe3f8fea4980a217cae892d0d9dd60533af172f771073b67c0a757443798043faa08c1d633ff6f93843894d4515edab40b83353a6f1441e884001354bf1cc12fd99dd6c2d1590c90c3b408251f88d63c728d",
         "address": "drt1t79j33ttyty0alttuvumpty0x0safpfeuhnup35thqgpy4dvkjyqd6f0rt",
         "initialRating": 5000001
       },
       {
-        "pubkey": "e8a43d25c15dbdaf23f158bf90bef418939453faaf09f46b224a7779dbf442426826037999153cdb74bdcaf18d0feb193238545d3fe83b6dbbbcf323c722108fc32d8930df8f2613a4b5c849edfbe483eeac0e35badbcecd39e84148d657b195",
+        "pubkey": "225956f6b1411476dc48623be47debbe2a655e3288dbd8349c1c264e0c3bfa756202597ba48d874dcb4870a3213be715f1c9c962a779eeb640c27660bd11322d366a85f823c02d5b583c6c64ca4ca0ef6f89b6d98682e5e99f65b1662bef4e10",
         "address": "drt1dzcrux7jq58us6hjpah9wdu947pk6t45swpvl6tjsqf85hvm9zeqr7xksh",
         "initialRating": 5000001
       }

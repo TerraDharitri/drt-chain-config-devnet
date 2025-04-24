@@ -3,7 +3,7 @@
     "address": "drt1qeaaqs6tkfndkqlnygvrwerxtn8tmyzzgg6696lc77rfeevr078qcnseae",
     "supply": "100001000000000000000000",
     "balance": "1000000000000000000",
-    "stakingvalue": "100000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -13,7 +13,7 @@
     "address": "drt13xsdkqytfuthgfaq867sr0n5sxhvn0twmmlkrd8c29ltvw59d27sh3twke",
     "supply": "107501000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "7500000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -23,7 +23,7 @@
     "address": "drt1g65ux8kuq9xv34f5hczdch398sp79zf75tezzalhnr2m0rmmlhkqr2jyjn",
     "supply": "130001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "30000000000000000000000",
+    "stakingvalue": "5000000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -33,7 +33,7 @@
     "address": "drt1gzzc96mpflcq5lnat0dz7dryv74fnqu6ddkwrqnk32jk508hgkgqe40hd6",
     "supply": "15001000000000000000000",
     "balance": "1000000000000000000",
-    "stakingvalue": "15000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -43,7 +43,7 @@
     "address": "drt1l32u0h5nhcwrq2ts0rkhnanndwgt06jgd2z275zf8ey39lvxy6fszx7cm5",
     "supply": "7501000000000000000000",
     "balance": "1000000000000000000",
-    "stakingvalue": "7500000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -53,7 +53,7 @@
     "address": "drt1hpu42hjnx6hm8fjv48cff2qmmqwjh7w3wzf00v2m538w5x2jcnpq258tta",
     "supply": "115001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "15000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -63,7 +63,7 @@
     "address": "drt1q9xj4uqrfy9ge6n7lefn24qfa78pqd9q5dlc2fj8yv79smtdf9qq95gmjt",
     "supply": "105001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "5000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -73,7 +73,7 @@
     "address": "drt13duqp5czapas2sfgx2guewkcn8gwfpcrnnxe36qmacm8lz29ardseghz2v",
     "supply": "115001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "15000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -83,7 +83,7 @@
     "address": "drt1kv5mkar6fvt6vhqj7evfqr9jnmmlqps3q9dp0t0gr9tcpqupyrss2ry0w3",
     "supply": "10001000000000000000000",
     "balance": "1000000000000000000",
-    "stakingvalue": "10000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -93,7 +93,7 @@
     "address": "drt1yj98hu0ccea0praq0u2kwgefk28aelgjcjsamt9eqkugsarqz7rsn48y9v",
     "supply": "105001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "5000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -103,7 +103,7 @@
     "address": "drt194sdjy8anx3v38vmr7g7r034y4e0276wndf8u70dxe2zmnfjyddq8954rr",
     "supply": "25001000000000000000000",
     "balance": "1000000000000000000",
-    "stakingvalue": "25000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
@@ -113,7 +113,7 @@
     "address": "drt15yhduccpcs8akr8ld8uewx3kvz3ggq2th6sm5nl0y0az6p7w9flsszp07g",
     "supply": "105001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "5000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
