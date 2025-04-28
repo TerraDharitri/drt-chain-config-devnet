@@ -3,8 +3,8 @@
     "roundDuration": 6000,
     "consensusGroupSize": 2,
     "minNodesPerShard": 2,
-    "metaChainConsensusGroupSize": 2,
-    "metaChainMinNodes": 2,
+    "metaChainConsensusGroupSize": 1,
+    "metaChainMinNodes": 1,
     "hysteresis": 0.2,
     "adaptivity": false,
     "initialNodes": [
