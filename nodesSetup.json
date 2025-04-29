@@ -77,6 +77,11 @@
         "pubkey": "225956f6b1411476dc48623be47debbe2a655e3288dbd8349c1c264e0c3bfa756202597ba48d874dcb4870a3213be715f1c9c962a779eeb640c27660bd11322d366a85f823c02d5b583c6c64ca4ca0ef6f89b6d98682e5e99f65b1662bef4e10",
         "address": "drt1dzcrux7jq58us6hjpah9wdu947pk6t45swpvl6tjsqf85hvm9zeqr7xksh",
         "initialRating": 5000001
+      },
+      {
+        "pubkey": "a6ac9324ae3fbd59ebf2d56e1cfe2fa3b92e9003d517d3afc9ace889165161c8a5f00647f9c0f9d3fcc0b118fb7c64011795292f7b20ace320ea3c6ac9f06bd0960de4b24e2dec069875642de2978d7382b9b3013770f3a3b3d2a869bfa2b88d",
+        "address": "drt1dzcrux7jq58us6hjpah9wdu947pk6t45swpvl6tjsqf85hvm9zeqr7xksh",
+        "initialRating": 5000001
       }
     ]
   }

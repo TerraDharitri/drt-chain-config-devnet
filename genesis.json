@@ -133,7 +133,7 @@
     "address": "drt1dzcrux7jq58us6hjpah9wdu947pk6t45swpvl6tjsqf85hvm9zeqr7xksh",
     "supply": "102501000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "2500000000000000000000",
+    "stakingvalue": "5000000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
