@@ -1,6 +1,6 @@
 [
   {
-    "address": "drt1qeaaqs6tkfndkqlnygvrwerxtn8tmyzzgg6696lc77rfeevr078qcnseae",
+    "address": "drt1dqnt2wtr2tggznk0gc2pfzzjn7s58mwkrmmtr42mvldcud6s49vsn33667",
     "supply": "100001000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "address": "drt13xsdkqytfuthgfaq867sr0n5sxhvn0twmmlkrd8c29ltvw59d27sh3twke",
+    "address": "drt1u9m72w20qql0rs5l60ug450kkldzyzc744rgxj5mdms2u794dhyqqlas2v",
     "supply": "107501000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -20,17 +20,17 @@
     }
   },
   {
-    "address": "drt1g65ux8kuq9xv34f5hczdch398sp79zf75tezzalhnr2m0rmmlhkqr2jyjn",
+    "address": "drt1s6tyywqp80kvees40a8r8c76h7466fhkvgjens4t696uyl977scsnyj58q",
     "supply": "130001000000000000000000",
     "balance": "100001000000000000000000",
-    "stakingvalue": "5000000000000000000000",
+    "stakingvalue": "2500000000000000000000",
     "delegation": {
       "address": "",
       "value": "0"
     }
   },
   {
-    "address": "drt1gzzc96mpflcq5lnat0dz7dryv74fnqu6ddkwrqnk32jk508hgkgqe40hd6",
+    "address": "drt1u55m9lx6lda8x5tdeaprkf99dpfwsdw45j9unhajn4n9wc5mm9hsauvzeq",
     "supply": "15001000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "address": "drt1l32u0h5nhcwrq2ts0rkhnanndwgt06jgd2z275zf8ey39lvxy6fszx7cm5",
+    "address": "drt19kycvyluc8dzydrl7yjr4lqu5zeew8txwhnsx8362q49yuzt649s6nu96k",
     "supply": "7501000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "address": "drt1hpu42hjnx6hm8fjv48cff2qmmqwjh7w3wzf00v2m538w5x2jcnpq258tta",
+    "address": "drt1f2d6nrp85ptzkm87rc0wvwe3lk4pa832pe9y583xrqcuvc32rm9smqntfk",
     "supply": "115001000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "address": "drt1q9xj4uqrfy9ge6n7lefn24qfa78pqd9q5dlc2fj8yv79smtdf9qq95gmjt",
+    "address": "drt14ytl94j06fujgvkew2k0wxa9f3c20lalcvmur0hu6z2jv0k62yms2am2xp",
     "supply": "105001000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "address": "drt13duqp5czapas2sfgx2guewkcn8gwfpcrnnxe36qmacm8lz29ardseghz2v",
+    "address": "drt1y9e4694xl6l8a6ewtvf7rpwcgwd08tgcy4lhl92fl979zcha20nst7q3n8",
     "supply": "115001000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "address": "drt1kv5mkar6fvt6vhqj7evfqr9jnmmlqps3q9dp0t0gr9tcpqupyrss2ry0w3",
+    "address": "drt123n25lyma6jcyxjv2khkrewvzjdhwr9ftaf76gkkk3tmx4jrss7stv6g44",
     "supply": "10001000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "address": "drt1yj98hu0ccea0praq0u2kwgefk28aelgjcjsamt9eqkugsarqz7rsn48y9v",
+    "address": "drt1ctgp4hlmz8y363p0p7cxv3jhq45nnl5g82cwnj2j4wpcryexmfgsmcywwp",
     "supply": "105001000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "address": "drt194sdjy8anx3v38vmr7g7r034y4e0276wndf8u70dxe2zmnfjyddq8954rr",
+    "address": "drt1yex8c3e6w7gm0yssuta9zuv4wd7srxwvupakc6jq8yap35xynq4qmf5re8",
     "supply": "25001000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "address": "drt15yhduccpcs8akr8ld8uewx3kvz3ggq2th6sm5nl0y0az6p7w9flsszp07g",
+    "address": "drt12yf06ladweq9nwluf7mfan3jhxm8edkdl0tet84phm0d049rx00sxskudf",
     "supply": "105001000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "address": "drt1t79j33ttyty0alttuvumpty0x0safpfeuhnup35thqgpy4dvkjyqd6f0rt",
+    "address": "drt1hksnhyjpxjmrqssqex2ed6dw60394h8f9fazr47zy86valv5tkusukhjlg",
     "supply": "102501000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "2500000000000000000000",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "address": "drt1dzcrux7jq58us6hjpah9wdu947pk6t45swpvl6tjsqf85hvm9zeqr7xksh",
+    "address": "drt1349k6pz34c5dhw4xsac5820qczx7xgp6pqftq4wwjfj2hse8e5nslt2ewc",
     "supply": "102501000000000000000000",
     "balance": "100001000000000000000000",
     "stakingvalue": "5000000000000000000000",
