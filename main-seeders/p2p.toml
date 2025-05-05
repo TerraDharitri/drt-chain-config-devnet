@@ -73,12 +73,18 @@
 
 [Sharding]
     # The targeted number of peer connections
-    TargetPeerCount = 0
-    MaxIntraShardValidators = 0
-    MaxCrossShardValidators = 0
-    MaxIntraShardObservers = 0
-    MaxCrossShardObservers = 0
-    MaxSeeders = 0
+    # TargetPeerCount = 0
+    # MaxIntraShardValidators = 0
+    # MaxCrossShardValidators = 0
+    # MaxIntraShardObservers = 0
+    # MaxCrossShardObservers = 0
+    # MaxSeeders = 0
+    TargetPeerCount = 20
+    MaxIntraShardValidators = 3
+    MaxCrossShardValidators = 4
+    MaxIntraShardObservers = 3
+    MaxCrossShardObservers = 3
+    MaxSeeders = 2
 
     #available options:
     #  `ListsSharder` will split the peers based on the shard membership (intra, cross or unknown)
