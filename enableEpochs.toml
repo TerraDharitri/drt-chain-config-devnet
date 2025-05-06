@@ -349,6 +349,7 @@
     MaxNodesChangeEnableEpoch = [
         { EpochEnable = 0, MaxNumNodes = 25, NodesToShufflePerShard = 2 },
         { EpochEnable = 1, MaxNumNodes = 25, NodesToShufflePerShard = 2 },
+        { EpochEnable = 4, MaxNumNodes = 21, NodesToShufflePerShard = 2 },
         # { EpochEnable = 1395, MaxNumNodes = 400, NodesToShufflePerShard = 24 },
         # Staking v4 configuration, where:
         # - Enable epoch = StakingV4Step3EnableEpoch
