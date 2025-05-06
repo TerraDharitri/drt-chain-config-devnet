@@ -101,12 +101,14 @@
     # MaxCrossShardObservers = 10
     # MaxSeeders = 2
 
-    TargetPeerCount = 25
-    MaxIntraShardValidators = 15
-    MaxCrossShardValidators = 5
-    MaxIntraShardObservers = 3
-    MaxCrossShardObservers = 2
+    TargetPeerCount = 41
+    MaxIntraShardValidators = 7
+    MaxCrossShardValidators = 15
+    MaxIntraShardObservers = 7
+    MaxCrossShardObservers = 3
     MaxSeeders = 2
+
+
 
     # available options:
     #   `ListsSharder` will split the peers based on the shard membership (intra, cross or unknown)
