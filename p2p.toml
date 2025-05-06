@@ -103,9 +103,9 @@
 
     TargetPeerCount = 41
     MaxIntraShardValidators = 7
-    MaxCrossShardValidators = 15
-    MaxIntraShardObservers = 7
-    MaxCrossShardObservers = 3
+    MaxCrossShardValidators = 7
+    MaxIntraShardObservers = 5
+    MaxCrossShardObservers = 5
     MaxSeeders = 2
 
 
