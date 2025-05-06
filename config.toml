@@ -629,8 +629,8 @@
     MinShuffledOutRestartThreshold = 0.06
     MaxShuffledOutRestartThreshold = 0.30
 
-    MinNumConnectedPeersToStart       = 6
-    MinNumOfPeersToConsiderBlockValid = 6
+    MinNumConnectedPeersToStart       = 2
+    MinNumOfPeersToConsiderBlockValid = 2
     ExtraDelayForRequestBlockInfoInMilliseconds = 3000
 
 # ResourceStats, if enabled, will output in a folder called "stats"
