@@ -285,22 +285,22 @@
     FixGasRemainingForSaveKeyValueBuiltinFunctionEnableEpoch = 629
 
     # CurrentRandomnessOnSortingEnableEpoch represents the epoch when the current randomness on sorting is enabled
-    CurrentRandomnessOnSortingEnableEpoch = 1396
+    CurrentRandomnessOnSortingEnableEpoch = 0
 
     # StakeLimitsEnableEpoch represents the epoch when stake limits on validators are enabled
     # Should have the same value as StakingV4Step1EnableEpoch that triggers the automatic unstake operations for the queue nodes
-    StakeLimitsEnableEpoch = 1396
+    StakeLimitsEnableEpoch = 0
 
     # StakingV4Step1EnableEpoch represents the epoch when staking v4 is initialized. This is the epoch in which
     # all nodes from staking queue are moved in the auction list
-    StakingV4Step1EnableEpoch = 1396
+    StakingV4Step1EnableEpoch = 0
 
     # StakingV4Step2EnableEpoch represents the epoch when staking v4 is enabled. Should have a greater value than StakingV4Step1EnableEpoch.
     # From this epoch, all shuffled out nodes are moved to auction nodes. No auction nodes selection is done yet.
-    StakingV4Step2EnableEpoch = 1397
+    StakingV4Step2EnableEpoch = 0
 
     # StakingV4Step3EnableEpoch represents the epoch in which selected nodes from auction will be distributed to waiting list
-    StakingV4Step3EnableEpoch = 1398
+    StakingV4Step3EnableEpoch = 0
 
     # AlwaysMergeContextsInEEIEnableEpoch represents the epoch in which the EEI will always merge the contexts
     AlwaysMergeContextsInEEIEnableEpoch = 1396
