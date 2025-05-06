@@ -285,11 +285,11 @@
     FixGasRemainingForSaveKeyValueBuiltinFunctionEnableEpoch = 629
 
     # CurrentRandomnessOnSortingEnableEpoch represents the epoch when the current randomness on sorting is enabled
-    CurrentRandomnessOnSortingEnableEpoch = 0
+    CurrentRandomnessOnSortingEnableEpoch = 1396
 
     # StakeLimitsEnableEpoch represents the epoch when stake limits on validators are enabled
     # Should have the same value as StakingV4Step1EnableEpoch that triggers the automatic unstake operations for the queue nodes
-    StakeLimitsEnableEpoch = 0
+    StakeLimitsEnableEpoch = 1396
 
     # StakingV4Step1EnableEpoch represents the epoch when staking v4 is initialized. This is the epoch in which
     # all nodes from staking queue are moved in the auction list
