@@ -101,10 +101,10 @@
     # MaxCrossShardObservers = 10
     # MaxSeeders = 2
 
-    TargetPeerCount = 41
-    MaxIntraShardValidators = 7
-    MaxCrossShardValidators = 15
-    MaxIntraShardObservers = 7
+    TargetPeerCount = 21
+    MaxIntraShardValidators = 5
+    MaxCrossShardValidators = 10
+    MaxIntraShardObservers = 3
     MaxCrossShardObservers = 3
     MaxSeeders = 2
 
