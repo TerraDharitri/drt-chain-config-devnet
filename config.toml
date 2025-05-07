@@ -677,7 +677,7 @@
             { StartEpoch = 629, Version = "v1.5" },
         ]
         TransferAndExecuteByUserAddresses = [ # TODO: set real contract addresses for all shards
-            "drt1qqqqqqqqqqqqqpgqr46jrxr6r2unaqh75ugd308dwx5vgnhwh47qkswz60", #shard 0
+            "drt1qqqqqqqqqqqqqpgqhdjjyq8dr7v5yq9tv6v5vt9tfvd00vg7h40q8zfxpd", #shard 0
         ]
 
     [VirtualMachine.Querying]
@@ -690,7 +690,7 @@
             { StartEpoch = 629, Version = "v1.5" },
         ]
         TransferAndExecuteByUserAddresses = [ # TODO: set real contract addresses for all shards
-            "drt1qqqqqqqqqqqqqpgqr46jrxr6r2unaqh75ugd308dwx5vgnhwh47qkswz60",
+            "drt1qqqqqqqqqqqqqpgqhdjjyq8dr7v5yq9tv6v5vt9tfvd00vg7h40q8zfxpd",
         ]
 
     [VirtualMachine.GasConfig]
@@ -701,13 +701,13 @@
 
 [BuiltInFunctions]
     AutomaticCrawlerAddresses =[
-        "drt16045g8cwmu00wna38tth93gesumaqw2jszmqck3s9lj55msnycqqcyve6q", #shard 0
-        "drt1yeny8f4jh8ecz54yere72lsqzwadntkcds2n2mhr7wu0vrrvpsqs2lktlr", #shard 1
-        "drt1l5uuldfz6c0v0lruk3yegf6q3lj7f3cdmeflwg8wuvnx28xzhspqdydjdn", #shard 2
+        "drt1spyavw0956vq68xj8y4tenjpq2wd5a9p2c6j8gsz7ztyrnpxrruqlqde3c", #shard 0
+        "drt1qyu5wthldzr8wx5c9ucg8kjagg0jfs53s8nr3zpz3hypefsdd8ssey5egf", #shard 1
+        "drt1k2s324ww2g0yj38qn2ch2jwctdy8mnfxep94q9arncc6xecg3xaq889n6e", #shard 2
     ]
     MaxNumAddressesInTransferRole = 100
     DNSV2Addresses =[
-        "drt1qqqqqqqqqqqqqpgq73dzn6rmncfsr9054hjam3zc0th7w7ex8tks3e4xad"
+        "drt1qqqqqqqqqqqqqpgqak8zt22wl2ph4tswtyc39namqx6ysa2sd8ssg6vu30"
     ]
 
 [Hardfork]
