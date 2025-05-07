@@ -16,7 +16,7 @@
 
 [DCDTSystemSCConfig]
     BaseIssuingCost = "50000000000000000" #0.05 rEWA
-    OwnerAddress = "drt17x5h63fgentz5302m9rd7ryttssttk68xtpr9qdztssw88vfs07s8geywx"
+    OwnerAddress = "drt1r8m659t3hqdl6yd5spjswwts0p6hacan6fsetjq8rzhzamrw2p3qdh2shd"
 
 [GovernanceSystemSCConfig]
     OwnerAddress = "drt1uwd7czafqa2eka354h8y9slx4t8da7sf3d0nce6yj3rnf72j63ns6srl6h" #should use a multisign contract instead of a wallet address
