@@ -296,7 +296,7 @@
         Type = "SizeLRU"
         SizeInBytes = 3145728 #3MB
     [ShardHdrNonceHashStorage.DB]
-        FilePath = "ShardHdrHashNonce"
+        FilePath = "/home/dharitri/numbat-nodes/node-0/db/D/Static/Shard_0/ShardHdrHashNonce"
         Type = "LvlDBSerial"
         BatchDelaySeconds = 2
         MaxBatchSize = 100
