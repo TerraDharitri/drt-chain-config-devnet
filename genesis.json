@@ -119,6 +119,26 @@
       "value": "0"
     }
   },
+   {
+    "address": "drt1tzfppmuhz3fvpe2swgkswq5n0pl7snztaupzrl7qh360723eu03sx08htc",
+    "supply": "102501000000000000000000",
+    "balance": "100001000000000000000000",
+    "stakingvalue": "2500000000000000000000",
+    "delegation": {
+      "address": "",
+      "value": "0"
+    }
+  },
+  {
+    "address": "drt1j6x9wjn5sg5cr9ptvchnj645mu9fcg7feslsc25g8a095ywkpjuqlnt0l7",
+    "supply": "105001000000000000000000",
+    "balance": "100001000000000000000000",
+    "stakingvalue": "5000000000000000000000",
+    "delegation": {
+      "address": "",
+      "value": "0"
+    }
+  },
   {
     "address": "drt1z7me89rkkuqyzf738kzeg89d4t4tk807gwe2txe5q73yndnlm2pq9wwjww",
     "supply": "1000000000000000000",
