@@ -275,7 +275,7 @@
     "balance": "1000000000000000000",
     "stakingvalue": "0",
     "delegation": {
-      "address": "drt1qqqqqqqqqqqqqpgq97wezxw6l7lgg7k9rxvycrz66vn92ksh2tssxwf7ep",
+      "address": "drt1qqqqqqqqqqqqqpgqeuea969cx7s4fk5g2v02kxpmghlt5q3m05tsc25yqd",
       "value": "5550000000000000000000"
     }
   },
@@ -285,7 +285,7 @@
     "balance": "1000000000000000000",
     "stakingvalue": "0",
     "delegation": {
-      "address": "drt1qqqqqqqqqqqqqpgq97wezxw6l7lgg7k9rxvycrz66vn92ksh2tssxwf7ep",
+      "address": "drt1qqqqqqqqqqqqqpgqeuea969cx7s4fk5g2v02kxpmghlt5q3m05tsc25yqd",
       "value": "5550000000000000000000"
     }
   },
@@ -295,7 +295,7 @@
     "balance": "1000000000000000000",
     "stakingvalue": "0",
     "delegation": {
-      "address": "drt1qqqqqqqqqqqqqpgq97wezxw6l7lgg7k9rxvycrz66vn92ksh2tssxwf7ep",
+      "address": "drt1qqqqqqqqqqqqqpgqeuea969cx7s4fk5g2v02kxpmghlt5q3m05tsc25yqd",
       "value": "5550000000000000000000"
     }
   }
