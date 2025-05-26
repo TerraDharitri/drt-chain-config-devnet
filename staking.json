@@ -10,23 +10,23 @@
   },
   {
     "address": "drt1eg9arcpt3vkk5g6ltkef2g5427qrpjr4ge02prxk32kx6ajhkn2qrl6spv",
-    "supply": "5551000000000000000000",
+    "supply": "2501000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "0",
     "delegation": {
       "address": "drt1qqqqqqqqqqqqqpgq4qg8tkenkwjztqf8zyxuakse06uy86fkvryscgtavt",
-      "value": "5550000000000000000000"
-    }
+      "value": "2500000000000000000000"
+  }
   },
   {
     "address": "drt1y3w8sh9utmfdw7ggcwdra5yecajh6ajynjked4llq542dvqccaash3nqtv",
-    "supply": "5551000000000000000000",
+    "supply": "2501000000000000000000",
     "balance": "1000000000000000000",
     "stakingvalue": "0",
     "delegation": {
       "address": "drt1qqqqqqqqqqqqqpgq4qg8tkenkwjztqf8zyxuakse06uy86fkvryscgtavt",
-      "value": "5550000000000000000000"
-    }
+      "value": "2500000000000000000000"
+  }
   },
         {
       "pubkey": "01e4e6e495994da4524a9f8593d843a5ce17ebc6ccdd09f0b8724f559c7c58d25421c7bfa44dca0dd548dcb1a7151e14fe2daf1358a5a14df7293b4127133df72138e78a159dabaab88cb6fbdf67d563d7cb56a8a4649fc7d46b1d966b1b328b",
