@@ -20,6 +20,6 @@
     "filename": "./config/genesisContracts/staking_contract_wasm_1.wasm",
     "vm-type": "0500",
     "type": "staking",
-    "version": "0.2.*"
+    "version": "1.0.0"
   }
 ]
