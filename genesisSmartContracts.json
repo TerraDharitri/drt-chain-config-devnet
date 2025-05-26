@@ -19,7 +19,6 @@
     "owner": "drt199wxfujcdvje6eqej2lh925wsu9k76f4fqx8eez6zgmrdxrkvrysycvchx",
     "filename": "./config/genesisContracts/staking_contract_wasm_1.wasm",
     "vm-type": "0500",
-    "type": "staking",
-    "version": "1.0.0"
+    "type": "staking"
   }
 ]
