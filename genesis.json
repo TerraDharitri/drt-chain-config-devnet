@@ -161,8 +161,8 @@
   },
     {
     "address": "drt199wxfujcdvje6eqej2lh925wsu9k76f4fqx8eez6zgmrdxrkvrysycvchx",
-    "supply": "1000000000000000000",
-    "balance": "1000000000000000000",
+    "supply": "1250000000000000000000",
+    "balance": "1250000000000000000000",
     "stakingvalue": "0",
     "delegation": {
       "address": "",
