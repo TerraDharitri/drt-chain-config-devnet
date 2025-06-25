@@ -8,11 +8,11 @@
 
     # ThresholdMinConnectedPeers represents the minimum number of connections a node should have before it can start
     # the sync and consensus mechanisms
-    ThresholdMinConnectedPeers = 3
+    ThresholdMinConnectedPeers = 2
 
     # MinNumPeersToWaitForOnBootstrap is the minimum number of peers to wait on bootstrap or the node will wait the default
     # time which is now set to ~20 seconds (the const defined in the common package named TimeToWaitForP2PBootstrap)
-    MinNumPeersToWaitForOnBootstrap = 10
+    MinNumPeersToWaitForOnBootstrap = 2
 
     # available transports. All defined addresses contains a single '%d' markup that is mandatory and will
     # be replaced at runtime with the actual port value
@@ -80,12 +80,10 @@
     #     "/ip4/162.62.61.226/tcp/10000/p2p/16Uiu2HAkzD8BFZZGVQgAFrcC4hLMFfcQpdRvGez6Sz1toSicRLwx",
     #     "/ip4/94.237.47.181/tcp/10000/p2p/16Uiu2HAkvL78zxX4NtcxFFrykGeppDMB2BuQCtRMziuDyUouUYmw",
     # ]
-    
-    # InitialPeerList = [
-    #     "/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
-    #     "/ip4/192.168.1.2/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
-    # ]
-        InitialPeerList = ["/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr"]
+    InitialPeerList = [
+        "/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
+        "/ip4/192.168.1.2/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
+    ]
 
 
     # kademlia's routing table bucket size
@@ -105,9 +103,9 @@
 
     TargetPeerCount = 41
     MaxIntraShardValidators = 7
-    MaxCrossShardValidators = 15
-    MaxIntraShardObservers = 7
-    MaxCrossShardObservers = 3
+    MaxCrossShardValidators = 7
+    MaxIntraShardObservers = 5
+    MaxCrossShardObservers = 5
     MaxSeeders = 2
 
 
