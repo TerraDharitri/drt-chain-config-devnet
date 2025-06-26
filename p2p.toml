@@ -84,8 +84,7 @@
         "/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
         "/ip4/192.168.1.2/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
     ]
-
-
+    
     # kademlia's routing table bucket size
     BucketSize = 100
 
