@@ -66,7 +66,6 @@
         "drt-main",
     ]
 
-
     # InitialPeerList represents the list of strings of some known nodes that will bootstrap this node
     # The address will be in a self-describing addressing format.
     # More can be found here: https://github.com/libp2p/specs/blob/master/3-requirements.md#34-transport-agnostic
@@ -80,9 +79,16 @@
     #     "/ip4/162.62.61.226/tcp/10000/p2p/16Uiu2HAkzD8BFZZGVQgAFrcC4hLMFfcQpdRvGez6Sz1toSicRLwx",
     #     "/ip4/94.237.47.181/tcp/10000/p2p/16Uiu2HAkvL78zxX4NtcxFFrykGeppDMB2BuQCtRMziuDyUouUYmw",
     # ]
+
+
+    # InitialPeerList = [
+    #     "/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
+    #     "/ip4/192.168.1.2/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
+    # ]
+
     InitialPeerList = [
-        "/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
-        "/ip4/192.168.1.2/tcp/9999/p2p/16Uiu2HAkwKdhTQGW5356HarnzcEUXcXK55ZEFSVYX9gRc74DPFJr",
+        "/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAm5XRM8YXToxYrcDWUr1eKb5xPhFLuyX47DJz9pZsmyHY8",
+        "/ip4/192.168.1.17/tcp/9999/p2p/16Uiu2HAm5XRM8YXToxYrcDWUr1eKb5xPhFLuyX47DJz9pZsmyHY8",
     ]
     
     # kademlia's routing table bucket size
