@@ -113,8 +113,6 @@
     MaxCrossShardObservers = 5
     MaxSeeders = 2
 
-
-
     # available options:
     #   `ListsSharder` will split the peers based on the shard membership (intra, cross or unknown)
     #   `OneListSharder` will do just the connection triming (upto TargetPeerCount value) not taking into account
