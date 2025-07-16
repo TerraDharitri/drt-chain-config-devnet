@@ -1,6 +1,6 @@
 {
     "startTime": 1694000000,
-    "roundDuration": 6000,
+    "roundDuration": 60,
     "consensusGroupSize": 2,
     "minNodesPerShard": 2,
     "metaChainConsensusGroupSize": 2,
