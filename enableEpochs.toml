@@ -91,6 +91,10 @@
     RelayedTransactionsV3EnableEpoch = 0
     RelayedTransactionsV3FixDCDTTransferEnableEpoch = 0
     UseGasBoundedShouldFailExecutionEnableEpoch = 0
+    StakingV4Step1EnableEpoch = 1
+    StakingV4Step2EnableEpoch = 2
+    StakingV4Step3EnableEpoch = 3
+    
 
     BLSMultiSignerEnableEpoch = [
         { EnableEpoch = 0, Type = "no-KOSK" },
