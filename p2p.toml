@@ -8,11 +8,11 @@
 
     # ThresholdMinConnectedPeers represents the minimum number of connections a node should have before it can start
     # the sync and consensus mechanisms
-    ThresholdMinConnectedPeers = 2
+    ThresholdMinConnectedPeers = 1
 
     # MinNumPeersToWaitForOnBootstrap is the minimum number of peers to wait on bootstrap or the node will wait the default
     # time which is now set to ~20 seconds (the const defined in the common package named TimeToWaitForP2PBootstrap)
-    MinNumPeersToWaitForOnBootstrap = 2
+    MinNumPeersToWaitForOnBootstrap = 1
 
     # available transports. All defined addresses contains a single '%d' markup that is mandatory and will
     # be replaced at runtime with the actual port value
@@ -28,6 +28,7 @@
         Type = "default autoscale" #available options "default autoscale", "infinite", "default with manual scale".
         ManualSystemMemoryInMB = 0 # not taken into account if the type is not "default with manual scale"
         ManualMaximumFD = 0 # not taken into account if the type is not "default with manual scale"
+
 
 # P2P peer discovery section
 
