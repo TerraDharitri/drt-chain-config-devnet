@@ -1,6 +1,6 @@
 [
   {
-    "owner": "drt1z7me89rkkuqyzf738kzeg89d4t4tk807gwe2txe5q73yndnlm2pq9wwjww",
+    "owner": "drt1vxy22x0fj4zv6hktmydg8vpfh6euv02cz4yg0aaws6rrad5a5awq4up8y3",
     "filename": "./config/genesisContracts/delegation.wasm",
     "vm-type": "0500",
     "init-parameters": "%validator_sc_address%@03E8@00@030D40@030D40",
@@ -8,17 +8,11 @@
     "version": "0.4.*"
   },
   {
-    "owner": "drt14qdypfp0krravlgynl08t7ztaw7jt4s5px8c2hny3h42vea8mz6qyuse4m",
+    "owner": "drt188anxz35atlef7cucszypmvx88lhz4m7a7t7lhcwt6sfphpsqlksn4qm95",
     "filename": "./config/genesisContracts/dns.wasm",
     "vm-type": "0500",
-    "init-parameters": "056bc75e2d63100000",
+    "init-parameters": "00",
     "type": "dns",
     "version": "0.2.*"
-  },
-    {
-    "owner": "drt199wxfujcdvje6eqej2lh925wsu9k76f4fqx8eez6zgmrdxrkvrysycvchx",
-    "filename": "./config/genesisContracts/staking-contract.wasm",
-    "vm-type": "0500",
-    "type": "staking"
   }
 ]
