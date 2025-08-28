@@ -2,35 +2,30 @@
     GenesisNodePrice = "2500000000000000000000" #2.5K rEWA
     MinStakeValue = "100000000000000000000" #100 rEWA
     MinUnstakeTokensValue = "10000000000000000000" #10rEWA
-    UnBondPeriod = 2400
+    UnBondPeriod = 250
     UnBondPeriodInEpochs = 1
     MinStepValue = "100000000000000000000"
     NumRoundsWithoutBleed = 100
     MaximumPercentageToBleed = 0.5
     BleedPercentagePerRound = 0.00001
-    MaxNumberOfNodesForStake = 320
+    MaxNumberOfNodesForStake = 64
     UnJailValue = "2500000000000000000" #0.1% of genesis node price
     ActivateBLSPubKeyMessageVerification = true
     StakeLimitPercentage = 1.0 #fraction of value 1 - 100%, for the time being no stake limit
-    NodeLimitPercentage = 0.05 #fraction of value 0.1 - 10% (180*0.05=9)
+    NodeLimitPercentage = 0.1 #fraction of value 0.1 - 10%
 
 [DCDTSystemSCConfig]
-    BaseIssuingCost = "50000000000000000" #0.05 rEWA
-    OwnerAddress = "drt1r8m659t3hqdl6yd5spjswwts0p6hacan6fsetjq8rzhzamrw2p3qdh2shd"
+    BaseIssuingCost = "5000000000000000000" #5 rEWA
+    OwnerAddress = "drt1fpkcgel4gcmh8zqqdt043yfcn5tyx8373kg6q2qmkxzu4dqamc0snh8ehx"
 
 [GovernanceSystemSCConfig]
-    OwnerAddress = "drt1uwd7czafqa2eka354h8y9slx4t8da7sf3d0nce6yj3rnf72j63ns6srl6h" #should use a multisign contract instead of a wallet address
+    OwnerAddress = "drt1vxy22x0fj4zv6hktmydg8vpfh6euv02cz4yg0aaws6rrad5a5awq4up8y3" #should use a multisign contract instead of a wallet address
     [GovernanceSystemSCConfig.V1]
-        # NumNodes           = 500
-        # ProposalCost       = "5000000000000000000" #5 rEWA
-        # MinQuorum          = 400
-        # MinPassThreshold   = 300
-        # MinVetoThreshold   = 50
-        NumNodes           = 15
+        NumNodes           = 500
         ProposalCost       = "5000000000000000000" #5 rEWA
-        MinQuorum          = 10
-        MinPassThreshold   = 8
-        MinVetoThreshold   = 5
+        MinQuorum          = 400
+        MinPassThreshold   = 300
+        MinVetoThreshold   = 50
     [GovernanceSystemSCConfig.Active]
         ProposalCost       = "1000000000000000000000" #1000 rEWA
         LostProposalFee    = "10000000000000000000"   #10 rEWA
@@ -41,7 +36,7 @@
 [DelegationManagerSystemSCConfig]
     MinCreationDeposit = "1250000000000000000000" #1.25K rEWA
     MinStakeAmount = "1000000000000000000" #1 rEWA
-    ConfigChangeAddress = "drt1tsgw76rcawsdp703qh25vezkpmley8xu6k6wx3jngru470rqu2rqfrhc3n" #should use a multisign contract instead of a wallet address
+    ConfigChangeAddress = "drt1vxy22x0fj4zv6hktmydg8vpfh6euv02cz4yg0aaws6rrad5a5awq4up8y3" #should use a multisign contract instead of a wallet address
 
 [DelegationSystemSCConfig]
     MinServiceFee  = 0
