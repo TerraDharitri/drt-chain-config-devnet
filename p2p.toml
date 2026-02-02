@@ -64,7 +64,7 @@
     #    /ip4/162.246.145.218/udp/4001/utp/ipfs/QmYJyUMAcXEw1b5bFfbBbzYu5wyyjLMRHXGUkCXpag74Fu
     #
     # phase but will accept connections and will do the network discovery if another peer connects to it
-    InitialPeerList = ["/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAm5XRM8YXToxYrcDWUr1eKb5xPhFLuyX47DJz9pZsmyHY8"]
+    InitialPeerList = ["/ip4/10.10.0.11/tcp/9999/p2p/16Uiu2HAm5XRM8YXToxYrcDWUr1eKb5xPhFLuyX47DJz9pZsmyHY8"]
 
     # kademlia's routing table bucket size
     BucketSize = 100
