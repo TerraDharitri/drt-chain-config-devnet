@@ -1,3 +1,7 @@
+env:
+  IMAGE_NODE: chain-devnet
+  REGISTRY_HOSTNAME: terradharitri
+
 name: Build Docker image & push
 
 on:
@@ -5,10 +9,6 @@ on:
     types: [published]
   pull_request:
   workflow_dispatch:
-
-env:
-  IMAGE_NODE: chain-devnet
-  REGISTRY_HOSTNAME: terradharitri
 
 jobs:
   build-docker-image:
