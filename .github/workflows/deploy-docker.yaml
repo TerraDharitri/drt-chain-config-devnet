@@ -1,6 +1,6 @@
 env:
   IMAGE_NODE: chain-devnet
-  REGISTRY_HOSTNAME: dharitri
+  REGISTRY_HOSTNAME: terradharitri
 
 name: Build Docker image & push
 
