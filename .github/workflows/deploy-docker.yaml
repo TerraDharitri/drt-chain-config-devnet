@@ -1,9 +1,9 @@
-#ymlfile
+#yamlfile
 name: Build Docker image & push
 
 on:
   push:
-    branches: [main , dev-madhur]
+    branches: [main]
   release:
     types: [published]
   pull_request:
