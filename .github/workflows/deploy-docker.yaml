@@ -21,6 +21,19 @@ jobs:
       - name: Check out code into the Go module directory
         uses: actions/checkout@v4
 
+      - name: Validate config file naming
+        run: |
+          echo "🔍 Checking config file naming..."
+
+          if find . -type f -name "config-validator.toml" | grep -q .; then
+            echo "ERROR: Invalid config file name detected!"
+            echo "Rename 'config-validator.toml' to 'config.toml'"
+            find . -type f -name "config-validator.toml"
+            exit 1
+          fi
+
+          echo "Config naming is correct."        
+
       - name: Extract metadata (tags, labels) for Docker
         id: meta
         uses: docker/metadata-action@v5
