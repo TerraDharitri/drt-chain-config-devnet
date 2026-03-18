@@ -2,7 +2,7 @@ name: Build Docker image & push
 
 on:
   push:
-    branches: [main]
+    branches: [main , dev-madhur]
   release:
     types: [published]
   pull_request:
