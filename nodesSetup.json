@@ -1,52 +1,52 @@
 {
-  "startTime": 1774006070,
+  "startTime": 1774009416,
   "roundDuration": 6000,
   "hysteresis": 0,
   "adaptivity": false,
   "initialNodes": [
     {
-      "pubkey": "bc3f3ee522fa8a75c86496659af5418bfbae3738a00fcca314d62bdb6a617ca3bcc81d0c4d54916f564831a19188880026f621743945a19e07ea3c0bde705132a2dff0461834fb57343cf37b40bbe9c578a6e32e9b89e7c9431c445c1e2ca297",
-      "address": "drt1lvy08tjuucv9gas3m600xwy9xmqcyve56sukdssmapwu86l4xnsschaau0",
+      "pubkey": "8400a2d6c27c959b9cf52b87869477df2d7169b3a34672d937b73b0312801faa75783924d261e5a12d4ec8289bfe1b09621febb167015bee8b89132e9d05d2599e3f4016775bbbc6de599b46e504057044ddee227c3cc9953cb16456edf24587",
+      "address": "drt14s9e86udg09q9028k634446cr6u5lw8ph4gs0fkraltxc5y60hlswv8ama",
       "initialRating": 0
     },
     {
-      "pubkey": "d93503e16c5aae51d54349c3a16747a26027febf3c61560ea649e10a755fadd1802246e28636021c5236d1ed2f801e0c15cef972700bde5503f97b2a03b5359d97176582e7c09e3f2dab14e6771cb86f9ae332fc2f96b45baf745e646fd13683",
-      "address": "drt1utn7hf0tm4u3w3ydysl49d8gwcn5c4thg0jewxpsnmynjv7yplesam2yn8",
+      "pubkey": "59abbb78e12750be157bed2aed098136917bdbb2eb15d2e850e9a19fcd72c94c1f44997d148f6706115e17847d89450d57038392d2fd9a63a865e2c92901d2805a47a95ce4b5e391b1b53ccac26de5ad748516915e8199fd75de65158766b386",
+      "address": "drt1dtm7d0h7tfskc9t3ycxhweu9n9gluj6m9mrf8mkr7w7sq9amdm3ss5z4ee",
       "initialRating": 0
     },
     {
-      "pubkey": "556d8889db35c75140a9c386faaab0d5ffc3934778790066aca115f0ebdde514e5c76bef65c045eeb41568c62ae1ad0e1f2eddd55eed4ee20fca6c16ac7b6d38891cdc5959fbec1ad1d20e25998718aa130fe2d56204bf581a1b1de7a6ce0319",
-      "address": "drt1kuf05gxg9gqt38nun2p55lml257wyrvwrvg9msg7gz2tgdeuh66sxplu64",
+      "pubkey": "2eb5391a31e78f56766293ae1e1fb807e3fada470c4dad7647d0accdcf025c794c43796fa9c9bc1935d60d4d0ba2741335918f072cfa5de72b4761fff42f3c17dba35aa1ae6f64a836a141b8e15169a5d45ef7756a02a085d3dd9dfead343613",
+      "address": "drt1cczgkj48s9ewd784tmd9pjwlwhqyp25fhjttrech29h74k5q6nesy2uufn",
       "initialRating": 0
     },
     {
-      "pubkey": "57bf5742173aa8cde5735b0871c4ca69f8da74e704af8baf56192853b19007dfd4a8c5d3c75b7eae12e0dbb95f24340212b5413d90819100d1c79a264dd66b6221d37196ccd7f07b6c778da5c2041ebc4741250dce7d052e754ecba669409383",
-      "address": "drt1fr0hx4tnhf7kmy2ajunp80csmt5xlgw3qx9tk9zlw2dqfpfrftwspv6jwp",
+      "pubkey": "3aabb50aaa64c5e9ce5f036c5e343115cbf699ae21b5008d3dd73d726e9ac3e471695f14f6d689cf335f3b1e74e323117b3fdba9055cc2ab65409d2d83d4ba8d988d1d626cd1db2c9a3d3a48199bdc80fabeb2b6bef0fe44b96fcf4f2d5a8487",
+      "address": "drt1zhlnsse2cuyr5afhv3dzczydxtt0s43erg7yalvajx58uefq4m8qc7et3h",
       "initialRating": 0
     },
     {
-      "pubkey": "2a56f0d107b1991d6c6c27e47b66b12c24fafe15455694e64b9e03ce1053e08e121f6dd663b35668f551998d09999e14fa9dd967b3bdef58b4ba307f603d2a4431a96ae6d6842963e95309168ce55801215f9d1d852bf6750bfa5fda7f80d280",
-      "address": "drt1m2g930fy9x42f00tnfggwm0cn0eyar5kgakmzw8yrnsvav4cvewqtwmhte",
+      "pubkey": "f548fb2a95f185bf99ef70d9c8843efa57cad162c59c61a5c81e97fe7f3ce32b2f8bee71eaaa9e6017d57a0ccb88f0003a4e0a9e9bca781006c087ac40056047fcfeff2480ab74d475dc467965b8c752067f02c756acd7bd9d8a3eed14159690",
+      "address": "drt1k466ggpjw5t24lhw94rqvze45cnf837qvhpqsvj6qfydtu8en92sf28vcx",
       "initialRating": 0
     },
     {
-      "pubkey": "02dc30f90ea57061dc081be21aae70d9189e4187e38ec1bff4448ca8721c23f58c9d7856200f76db879cc3135036ee06d8a3b92a70d045765b2772f9bda93ab65cf7ea3c49ab6b577d89d5c9f390931abef04517f6e5b4a236788bfe08bff18b",
-      "address": "drt1096rlfrqgmggxyklz3fhnas2afdxvvqrpy3ne462vxyszr88734qsw5g6u",
+      "pubkey": "8459bd2ad9e91ffbad96f5b3c92a121b597ab89d321afa2f08d2a38cd684e4879bbee770fca4c6072eaa0590ceb0e40972c1f3cda118023b4e0d57289922df5845f21b7eb3fecd8f6d1ff6051b4a6af03a40594590f04641e24057c92a14200e",
+      "address": "drt1ft7uv0hhx93epl9nvsuet6sdl6ssy3jqsxkx58mgy0q60h58mnls29790v",
       "initialRating": 0
     },
     {
-      "pubkey": "f05ffb5e6032366bf1115390edb522a6b2980edd6c2bf9cbfe0306b1e3341e3e864abafaed0ef6687ea08f9dffb2d200b9fb0fcd6c70a98d4fc3df4057f369dab3e0930569c14f8f26bb9f648d935d0f6d11b1f0158804d291ee53b2dce90e17",
-      "address": "drt1rlwge744tqf4rr3sfewqgsf79pdtc3cr43xqdt3akxfj8f7k9zaqt5sa2g",
+      "pubkey": "b155ddb28e72cb1dee0f9518730f6e45acd9e363a0a5aeb0d77b6de856df890016a4d57618dfa235c1cb034f5e053f18c4d5b2602851e1f106a2f9857db80c45c83bf6e29e9c2c3cfc764836480db812e6437e465e1f0daf7f683259fcfd1388",
+      "address": "drt1k7k55c8jd0wfprthtj66nwlxznncjp2pk9v3ftunsva4qjf5p8lq6mkq3e",
       "initialRating": 0
     },
     {
-      "pubkey": "5e6e9698778e1eb9e0356d6857875afd41cc4c72937db6cdda9082375ece261025c449c1fbf07805c32c962b64c720190027b63d6ef5bcc983c9050b367873293fc5e8c2aaa93148ed746a4f32ba1748f8b63919398786d5697f611a3a54c68d",
-      "address": "drt1e3h8ly3c0fysp2p7ld925aagdz5a4gfpu46wlpyrkqf26m24xk9st7an3k",
+      "pubkey": "ad636d20c06189c6efa451fc8f353c008d5e187d18a3417033f76330403430392e23d211a3b3f69ba3be79954861d5035367c5cadb2202e233fc332f7b4f9cd6ce81f0879af7784863880db1c7672884c29829aed9e50863f86f8cc982f1a78c",
+      "address": "drt1uul2ug7rc9am2rytgqwuk782wgqjltzjtwqea7lx390td60h7y5qqud7zv",
       "initialRating": 0
     },
     {
-      "pubkey": "485a29554174cfd3112e9167246e4bf5e24be23860cac36a06b32d8b988e5199a0a2a21b904fa74874c403838b6fbe0b4715de6ebbec40d36954f6f8f8b4223d8bbd763dd654fea650df5cdeaf01390c37f65593592f5e3393a44d8d56478e06",
-      "address": "drt1urca3k2tcvpfy9jm5qmjkslfzhyz47c2mch3a3raw35nwr7wt63s08398n",
+      "pubkey": "fb1d1c5f647c903bb884feaf56cce84ebc03bdb7679d37921c971646d790a8ad9bd7de96dbfa59970b106da54597fc15cab056cb9db1f5180e10fdb731983666dbc9a0e47e600cd565d71bedc21ac25fd84a5385fd4b42dec2228fe270354f0c",
+      "address": "drt1u578x4y24l9vhxhkpt0v0u0mlkzrj4n470stu5yp2ef6f8m7x09s3u6p8w",
       "initialRating": 0
     }
   ]
