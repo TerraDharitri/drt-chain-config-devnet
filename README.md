@@ -39,7 +39,7 @@ docker run --mount type=bind,source=${CONFIG_FOLDER}/,destination=/data chain-de
 'proxyVersion'
 ````
 
-### all others are auto-generated
+## all others are auto-generated
 
 
 
