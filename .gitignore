@@ -1,5 +1,5 @@
-# Security files
-*.pem
+# # Security files
+# *.pem
 
-# Unwanted config files
-config-observer.toml
+# # Unwanted config files
+# config-observer.toml
