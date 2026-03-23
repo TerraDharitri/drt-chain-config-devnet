@@ -67,7 +67,7 @@
     #
     # If the initial peers list is left empty, the node will not try to connect to other peers during initial bootstrap
     # phase but will accept connections and will do the network discovery if another peer connects to it
-    InitialPeerList = ["/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAmGNFuhdpNubHTRxcRsuHHhkxe9x3uDZShCnwtSsAnaxEu"]
+    InitialPeerList = ["/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAmE4q14WLswwQhcs6xmLqi8bwY3UxPWkbFGdMZWKQpxGHe"]
 
     # kademlia's routing table bucket size
     BucketSize = 100
