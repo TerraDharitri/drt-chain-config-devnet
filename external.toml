@@ -4,7 +4,7 @@
     #the node might loose rating (even facing penalties) due to the fact that
     #the indexer is called synchronously and might block due to external causes.
     #Strongly suggested to activate this on a regular observer node.
-    Enabled           = true
+    Enabled           = false
     IndexerCacheSize  = 0
     BulkRequestMaxSizeInBytes = 4194304 # 4MB
     URL               = "http://localhost:9200"
@@ -27,7 +27,7 @@
 
     # ProxyUrl is used to communicate with the subscriptions hub
     # The indexer instance will broadcast data using ProxyUrl
-    ProxyUrl = "http://localhost:7950"
+    ProxyUrl = "http://localhost:5000"
 
     # Username and Password need to be specified if UseAuthorization is set to true
     Username = ""
