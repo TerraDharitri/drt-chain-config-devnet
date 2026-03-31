@@ -12,7 +12,7 @@
 
     # MinNumPeersToWaitForOnBootstrap is the minimum number of peers to wait on bootstrap or the node will wait the default
     # time which is now set to ~20 seconds (the const defined in the common package named TimeToWaitForP2PBootstrap)
-    MinNumPeersToWaitForOnBootstrap = 10
+    MinNumPeersToWaitForOnBootstrap = 3
 
     # available transports. All defined addresses contains a single '%d' markup that is mandatory and will
     # be replaced at runtime with the actual port value
@@ -67,7 +67,7 @@
     #
     # If the initial peers list is left empty, the node will not try to connect to other peers during initial bootstrap
     # phase but will accept connections and will do the network discovery if another peer connects to it
-    InitialPeerList = ["/ip4/127.0.0.1/tcp/9999/p2p/16Uiu2HAmMoG3RQFF7BWNDnUT6KFPRpmpHr32Zu29cFjPSfRMxJ5V"]
+    InitialPeerList = ["/ip4/192.168.1.234/tcp/9999/p2p/16Uiu2HAmMoG3RQFF7BWNDnUT6KFPRpmpHr32Zu29cFjPSfRMxJ5V"]
 
     # kademlia's routing table bucket size
     BucketSize = 100
