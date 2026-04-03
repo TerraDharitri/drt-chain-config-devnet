@@ -760,7 +760,7 @@
 [Hardfork]
     EnableTrigger = true
     EnableTriggerFromP2P = true
-    PublicKeyToListenFrom = "44d79ef199af1eeed5f41b7f1f6f5a49d7132a69d69c7c1fb3807524ebf90f565e811ab59bd4cc2587e718c9a85176159577e6794f7885436012640b435a4029b707602631599de3706db4c7804769253294932e5bd97d9b7d294807f747ab85"
+    PublicKeyToListenFrom = "6bd3a8b0123525a5cd87d1d1aaeb19281550a9042b0cda428742f34df7be3b34f020bb68d9e175a0ecc61346c2ef310ac84f30cfccfc510331fdd25aea8cd947b5fb1e09826130d3592398f434f24ec7b22106514aba2265c639788948d39002"
     CloseAfterExportInMinutes = 10000
     AfterHardFork = false
     ImportFolder = "export"
