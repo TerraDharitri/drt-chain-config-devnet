@@ -1,5 +1,5 @@
 # Security files
-walletKey.pem
+# *.pem
 
 # Unwanted config files
 config-observer.toml
