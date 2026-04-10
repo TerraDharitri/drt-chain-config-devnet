@@ -42,8 +42,8 @@
 
     # ChainParametersByEpoch defines chain operation configurable values that can be modified based on epochs
     ChainParametersByEpoch = [
-        { EnableEpoch = 0, RoundDuration = 6000, ShardConsensusGroupSize = 5, ShardMinNumNodes = 5, MetachainConsensusGroupSize = 6, MetachainMinNumNodes = 6, Hysteresis = 0.0, Adaptivity = false },
-        { EnableEpoch = 1, RoundDuration = 6000, ShardConsensusGroupSize = 5, ShardMinNumNodes = 5, MetachainConsensusGroupSize = 6, MetachainMinNumNodes = 6, Hysteresis = 0.0, Adaptivity = false }
+        { EnableEpoch = 0, RoundDuration = 6000, ShardConsensusGroupSize = 3, ShardMinNumNodes = 3, MetachainConsensusGroupSize = 3, MetachainMinNumNodes = 3, Hysteresis = 0.0, Adaptivity = false },
+        { EnableEpoch = 1, RoundDuration = 6000, ShardConsensusGroupSize = 3, ShardMinNumNodes = 3, MetachainConsensusGroupSize = 3, MetachainMinNumNodes = 3, Hysteresis = 0.0, Adaptivity = false }
     ]
 
     # EpochChangeGracePeriodEnableEpoch represents the configuration of different grace periods for epoch change with their activation epochs
@@ -760,7 +760,7 @@
 [Hardfork]
     EnableTrigger = true
     EnableTriggerFromP2P = true
-    PublicKeyToListenFrom = "f93035e3a2a6013f87595b83f6dd8b36ecd43ecd7c4dbbc68af0acbc7c971b0adb1f88d1b95d15068798b73398f8d808a491a4b8a4138ac9c01eb87a206e2b5bf27e471dcf903a410cc6e554418a528ce6c2a7800f3c2acde7feff1891e2f985"
+    PublicKeyToListenFrom = "2b68b0138da9dd798de9478179c85cbc31fc64e8e9467f3c4ceed715f91f8a5057b9791f153f91912812cfbd090b4815778c8ff7829bb8f739385b2c396c9f37e0714b5ea9090c7ebced60cac79242bb92a67309d28fdb79a3e077ccbf5feb11"
     CloseAfterExportInMinutes = 10000
     AfterHardFork = false
     ImportFolder = "export"

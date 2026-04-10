@@ -12,7 +12,7 @@
 
     # MinNumPeersToWaitForOnBootstrap is the minimum number of peers to wait on bootstrap or the node will wait the default
     # time which is now set to ~20 seconds (the const defined in the common package named TimeToWaitForP2PBootstrap)
-    MinNumPeersToWaitForOnBootstrap = 3
+    MinNumPeersToWaitForOnBootstrap = 10
 
     # available transports. All defined addresses contains a single '%d' markup that is mandatory and will
     # be replaced at runtime with the actual port value
@@ -25,12 +25,14 @@
             PreventPortReuse = false
 
     [Node.ResourceLimiter]
-        Type = "default autoscale" #available options "default autoscale", "infinite", "default with manual scale".
+        Type = "infinite" #available options "default autoscale", "infinite", "default with manual scale".
         ManualSystemMemoryInMB = 0 # not taken into account if the type is not "default with manual scale"
         ManualMaximumFD = 0 # not taken into account if the type is not "default with manual scale"
         # Ipv4ConnLimit = [] default values will be used, details here: https://github.com/libp2p/go-libp2p/pull/2872
         # Ipv6ConnLimit = [] default values will be used, details here: https://github.com/libp2p/go-libp2p/pull/2872
-
+        Ipv4ConnLimit = [{PrefixLength = 32, ConnCount = 100000}, {PrefixLength = 0, ConnCount = 100000}]
+        Ipv6ConnLimit = [{PrefixLength = 128, ConnCount = 100000}, {PrefixLength = 0, ConnCount = 100000}]
+        
 # P2P peer discovery section
 
 # The following sections correspond to the way new peers will be discovered
@@ -67,7 +69,7 @@
     #
     # If the initial peers list is left empty, the node will not try to connect to other peers during initial bootstrap
     # phase but will accept connections and will do the network discovery if another peer connects to it
-    InitialPeerList = ["/ip4/192.168.1.234/tcp/9999/p2p/16Uiu2HAmMoG3RQFF7BWNDnUT6KFPRpmpHr32Zu29cFjPSfRMxJ5V"]
+    InitialPeerList = ["/ip4/192.168.1.234/tcp/9999/p2p/16Uiu2HAmP2XzE846KEVkdU1z7zq9qGGtRCgwh63JfAS7pK7MPSkN"]
 
     # kademlia's routing table bucket size
     BucketSize = 100
