@@ -16,7 +16,7 @@
     #   "1" for Mainnet
     #   "D" for Devnet
     #   "T" for Testnet
-    ChainID = "local-devnet"
+    ChainID = "D"
 
     # MinTransactionVersion represents the minimum transaction version accepted
     MinTransactionVersion = 1
@@ -760,7 +760,7 @@
 [Hardfork]
     EnableTrigger = true
     EnableTriggerFromP2P = true
-    PublicKeyToListenFrom = "59e69a83aaa7c5c0ac7c700b36f52f95f2836475b2da8386ccd73f1f33133456c3ad855b4d738c5c312d514f272601168393b3efc40214a715ed769b5aef0096f25cb242342c3785aef02843ff1955280d85b27eb3f1d4988c2b3ed6c1f7d701"
+    PublicKeyToListenFrom = "3b48d4e0e696ace6d5cb2e1ecd40c63b881bbeeee5f58945438fcfd8126e690fea9b89696e60fdbe1d09e6b73724fc0feb1f43f93d14aab290743a8fdffe0f7c2ef42703b3376588524156b2dcd54b4effb37569ce330feab5ed5f418db3288e"
     CloseAfterExportInMinutes = 10000
     AfterHardFork = false
     ImportFolder = "export"
