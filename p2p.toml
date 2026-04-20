@@ -32,7 +32,7 @@
         # Ipv6ConnLimit = [] default values will be used, details here: https://github.com/libp2p/go-libp2p/pull/2872
         Ipv4ConnLimit = [{PrefixLength = 32, ConnCount = 100000}, {PrefixLength = 0, ConnCount = 100000}]
         Ipv6ConnLimit = [{PrefixLength = 128, ConnCount = 100000}, {PrefixLength = 0, ConnCount = 100000}]
-        
+
 # P2P peer discovery section
 
 # The following sections correspond to the way new peers will be discovered
@@ -69,7 +69,7 @@
     #
     # If the initial peers list is left empty, the node will not try to connect to other peers during initial bootstrap
     # phase but will accept connections and will do the network discovery if another peer connects to it
-    InitialPeerList = ["/ip4/192.168.1.234/tcp/9999/p2p/16Uiu2HAmP2XzE846KEVkdU1z7zq9qGGtRCgwh63JfAS7pK7MPSkN"]
+    InitialPeerList = ["/ip4/10.10.0.11/tcp/9999/p2p/16Uiu2HAkzzu7tS5MuTBYhGU9sVhCm8bojrPY4zFbC8GLfonC8dHq"]
 
     # kademlia's routing table bucket size
     BucketSize = 100

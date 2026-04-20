@@ -32,7 +32,7 @@
         # Ipv6ConnLimit = [] default values will be used
         Ipv4ConnLimit = [{PrefixLength = 32, ConnCount = 100000}, {PrefixLength = 0, ConnCount = 100000}]
         Ipv6ConnLimit = [{PrefixLength = 128, ConnCount = 100000}, {PrefixLength = 0, ConnCount = 100000}]
-        
+
 # P2P peer discovery section
 
 # The following sections correspond to the way new peers will be discovered
